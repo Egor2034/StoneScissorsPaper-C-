@@ -1,0 +1,8 @@
+C:\Users\egor_\source\repos\StoneScissorsPaper\StoneScissorsPaper\bin\Debug\StoneScissorsPaper.exe.config
+C:\Users\egor_\source\repos\StoneScissorsPaper\StoneScissorsPaper\bin\Debug\StoneScissorsPaper.exe
+C:\Users\egor_\source\repos\StoneScissorsPaper\StoneScissorsPaper\bin\Debug\StoneScissorsPaper.pdb
+C:\Users\egor_\source\repos\StoneScissorsPaper\StoneScissorsPaper\obj\Debug\StoneScissorsPaper.csproj.AssemblyReference.cache
+C:\Users\egor_\source\repos\StoneScissorsPaper\StoneScissorsPaper\obj\Debug\StoneScissorsPaper.csproj.SuggestedBindingRedirects.cache
+C:\Users\egor_\source\repos\StoneScissorsPaper\StoneScissorsPaper\obj\Debug\StoneScissorsPaper.csproj.CoreCompileInputs.cache
+C:\Users\egor_\source\repos\StoneScissorsPaper\StoneScissorsPaper\obj\Debug\StoneScissorsPaper.exe
+C:\Users\egor_\source\repos\StoneScissorsPaper\StoneScissorsPaper\obj\Debug\StoneScissorsPaper.pdb
